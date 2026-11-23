@@ -15,3 +15,4 @@ Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left st
 - Neighbourhood City Modular lowpoly — golukumar (Sketchfab standard license): https://sketchfab.com/mortalityrexotable
 - Dancing girl — wk1978 (CC-BY-4.0): https://sketchfab.com/3d-models/dancing-girl-735d6e8ce4944aa89a394d749d5ab6dd
 - Black Rat ( Free download ) — Nestaeric (CC-BY-4.0): https://sketchfab.com/3d-models/black-rat-free-download-3db3acb4140d4de8bd62a171212bad9c
+- Futuristic Room — denis_cliofas (CC-BY-4.0): https://sketchfab.com/3d-models/futuristic-room-a60be41028b049b6a488f5c6effcb6f8
