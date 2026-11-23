@@ -20,3 +20,8 @@ Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left st
 - Room aquarium (Now Animated) by NeoT1 (https://sketchfab.com/Neot1), CC-BY-4.0: https://sketchfab.com/3d-models/room-aquarium-now-animated-3d2177c3e90a4379b3484d811c013284
 
 - Bedroom Interior by ankitk2618 (https://sketchfab.com/ankitk2618), CC-BY-4.0: https://sketchfab.com/3d-models/bedroom-interior-082a0fa7766448b8ad68202367cb27c1
+
+- populate idle models (2000 frames) by vicente betoret ferrero (https://sketchfab.com/deathcow), CC-BY-4.0: https://sketchfab.com/3d-models/populate-idle-models-2000-frames-dba3f985c1ab45a9ada0c8ce86b3cd47
+- chihuahua derp dog by Schmoldt5000 (https://sketchfab.com/Schmoldt5000), CC-BY-4.0: https://sketchfab.com/3d-models/chihuahua-derp-dog-7d67e4852acf4c1e989ce28ae5dcbf75
+- SG Games Lineup by Neberkenezer (https://sketchfab.com/neberkenezer), CC-BY-4.0: https://sketchfab.com/3d-models/sg-games-lineup-5d81be56c3a34b1daf7f053670a1d533
+- Barranco Bar | PS1 Environment(Optimized/Mobile) by McPato (https://sketchfab.com/McPato), CC-BY-4.0: https://sketchfab.com/3d-models/barranco-bar-ps1-environmentoptimizedmobile-3bbbad82e80e4af7985269292b41f52b
