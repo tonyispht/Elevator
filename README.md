@@ -25,3 +25,7 @@ Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left st
 - chihuahua derp dog by Schmoldt5000 (https://sketchfab.com/Schmoldt5000), CC-BY-4.0: https://sketchfab.com/3d-models/chihuahua-derp-dog-7d67e4852acf4c1e989ce28ae5dcbf75
 - SG Games Lineup by Neberkenezer (https://sketchfab.com/neberkenezer), CC-BY-4.0: https://sketchfab.com/3d-models/sg-games-lineup-5d81be56c3a34b1daf7f053670a1d533
 - Barranco Bar | PS1 Environment(Optimized/Mobile) by McPato (https://sketchfab.com/McPato), CC-BY-4.0: https://sketchfab.com/3d-models/barranco-bar-ps1-environmentoptimizedmobile-3bbbad82e80e4af7985269292b41f52b
+- Abandoned Warehouse - Interior Scene by Aurélien Martel (https://sketchfab.com/aurelien_martel), CC-BY-4.0: https://sketchfab.com/3d-models/abandoned-warehouse-interior-scene-1d5285f2e0fd4211a27c8042496d5959
+- Generic passenger car pack by Comrade1280 (https://sketchfab.com/comrade1280), CC-BY-4.0: https://sketchfab.com/3d-models/generic-passenger-car-pack-20f9af9b8a404d5cb022ac6fe87f21f5
+
+In the game, the credits live behind the **Credits** button on the title screen.
