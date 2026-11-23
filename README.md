@@ -18,3 +18,5 @@ Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left st
 - Futuristic Room — denis_cliofas (CC-BY-4.0): https://sketchfab.com/3d-models/futuristic-room-a60be41028b049b6a488f5c6effcb6f8
 
 - Room aquarium (Now Animated) by NeoT1 (https://sketchfab.com/Neot1), CC-BY-4.0: https://sketchfab.com/3d-models/room-aquarium-now-animated-3d2177c3e90a4379b3484d811c013284
+
+- Bedroom Interior by ankitk2618 (https://sketchfab.com/ankitk2618), CC-BY-4.0: https://sketchfab.com/3d-models/bedroom-interior-082a0fa7766448b8ad68202367cb27c1
