@@ -32,6 +32,8 @@ Dog park and adoption: outside the parking garage there is a **Dog Park** gate i
 
 Jail: a few things a sensible person would not do get you arrested, booked, and put in a cell: hammering the HELP or ALARM button in the cab, pulling a fire alarm with no fire (pull stations on a few floors, e.g. 1, 4, 9, 17, 25, 31, 50 and 77), trying a stranger's car door in the garage, climbing the fence by a NO EXIT sign in the city, or poking a breaker box when nothing is wrong. After a booking slip you wake up in a rusty cell with a flickering bulb, a toilet, a sink, a tally on the wall and a rules board. The door is locked; the only way out is to sleep in the bed, which puts you back in the lift on floor 1. If you reload while jailed you are still in the cell.
 
+Laundry day: your clothes get dirtier the longer you play. After about 45 minutes of play you start to smell (a chip shows how bad it is), after about 90 you are ripe (a green haze and the odd fly), and after about 150 you are a hazard (flies everywhere, people and plants react). The Laundromat on floor 84 takes $4 and a 45-second wash-and-dry cycle, which you spend waiting in a towel; collect your clothes from the machine you used and the clock resets. The state is saved, so you cannot dodge it by reloading.
+
 Metro stations: when the train rests at the platform, board it to ride to three other stops (Night Market, Rail Depot, Harbour Quay), each with its own props and secrets. The red button post at each platform calls the train home.
 
 Holiday decor appears in the lift from December 1 to January 2.
