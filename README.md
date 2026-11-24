@@ -30,6 +30,8 @@ Pets: give Hopper, the metro chihuahua, a treat (and leave one in the bowl for a
 
 Dog park and adoption: outside the parking garage there is a **Dog Park** gate in the city. Behind it is a fenced yard where seven dogs (two puppies, a Jack Russell, a Bull Terrier, a Basset Hound, an Alaskan Malamute and a Bullmastiff) trot around, chase each other, sit, scratch and lie down. Pick up the tennis ball by the gate basket and throw it: the nearest dogs race after it and bring it back. Walk up to any dog to meet it and **adopt** it (free). Up to three adopted dogs follow you through the tower at once; manage who comes along in the Journal's **Pack** tab or at the adoption desk. Adopted dogs appear as photo subjects too.
 
+Jail: a few things a sensible person would not do get you arrested, booked, and put in a cell: hammering the HELP or ALARM button in the cab, pulling a fire alarm with no fire (pull stations on a few floors, e.g. 1, 4, 9, 17, 25, 31, 50 and 77), trying a stranger's car door in the garage, climbing the fence by a NO EXIT sign in the city, or poking a breaker box when nothing is wrong. After a booking slip you wake up in a rusty cell with a flickering bulb, a toilet, a sink, a tally on the wall and a rules board. The door is locked; the only way out is to sleep in the bed, which puts you back in the lift on floor 1. If you reload while jailed you are still in the cell.
+
 Metro stations: when the train rests at the platform, board it to ride to three other stops (Night Market, Rail Depot, Harbour Quay), each with its own props and secrets. The red button post at each platform calls the train home.
 
 Holiday decor appears in the lift from December 1 to January 2.
@@ -66,3 +68,4 @@ Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / K jo
 In the game, the credits live behind the **Credits** button on the title screen.
 - Bullpuppy and Dog Puppy by kenchoo (https://sketchfab.com/kenchoo), CC-BY-4.0: https://sketchfab.com/3d-models/bullpuppy-50d66326f5d9458cbda747071dd61233 and https://sketchfab.com/3d-models/dog-puppy-72331763040e4314b154f84348fe0957 (simplified for the game)
 - low poly dog pack by compost the second (https://sketchfab.com/compostthesecond), **CC-BY-SA-4.0**: https://sketchfab.com/3d-models/low-poly-dog-pack-b27eaa571da14c3b93bf664fe7d950c8 . The dog models used here are modified (merged, textures compressed, animated in code) and are shared under the same CC-BY-SA-4.0 license (the `dogs.bin` asset).
+- Prisoncell by TK Officials (https://sketchfab.com/TK-Officials), CC-BY-4.0: https://sketchfab.com/3d-models/prisoncell-6fe3431df8cf473e89eeb70658a08b2c . Compressed and re-lit for the jail.
