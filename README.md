@@ -26,7 +26,7 @@ Blackouts and stalls: now and then the lift jams between floors (mash ALARM), or
 
 Night finds: six extra secrets (a shooting star, an owl, fireflies, a moon lantern, a constellation, a sleeping cat) appear only after dark by your real clock.
 
-Pets: give the metro chihuahua a treat (and leave one in the bowl for a rat) and they follow you through the tower. A rat can squeeze into the twelve tiny holes hidden in lobby walls and come back with a stash.
+Pets: give Hopper, the metro chihuahua, a treat (and leave one in the bowl for a rat) and they follow you through the tower. A rat can squeeze into the twelve tiny holes hidden in lobby walls and come back with a stash.
 
 Metro stations: when the train rests at the platform, board it to ride to three other stops (Night Market, Rail Depot, Harbour Quay), each with its own props and secrets. The red button post at each platform calls the train home.
 
