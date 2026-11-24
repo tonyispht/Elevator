@@ -6,16 +6,37 @@ Play: https://tonyispht.github.io/Elevator/
 
 Optional jobs (open the Job Board with the 💼 button or J; take one or quit any time, pay goes into a saved $ wallet):
 - **Courier** – carry packages to a floor and walk onto the glowing ring; faster deliveries earn tips and streak bonuses.
-- **Elevator operator** – guests wait on floors and call the lift; pick them up, drop them at their floor, build combos.
+- **Elevator operator** – guests wait on floors and call the lift; pick them up, drop them at their floor, build combos. Some guests are **riddle passengers**: they describe their destination instead of naming it ("Sand, surf and a striped umbrella"), they only ever ask for floors you have already visited, and a correct first guess pays a bonus.
 - **Tour guide** – lead a 3-stop tour and hold at each spot's star ring for a few seconds; faster legs earn more stars.
+- **Photographer** – clients ask for a photo of a particular floor's secret; open photo mode (P), centre the subject and shoot. Better framing pays more and streaks add a bonus.
 
 Floor secrets: every floor (P and 1–100) hides one interactive thing that belongs only to that floor – a cuckoo clock, a Tesla coil, a vault, a time machine, a telescope, a summit flag on floor 100… Look for the little gold sparkle, then click or press E. Your finds are saved ("✨ New find").
+
+Journal and the vault: press **K** (or the 📖 button) for the Journal. It tracks every floor secret, night find, rat hole, metro find and the building's strange "signal". Each 20 finds reveal one digit of a four-digit code; the keypad on the vault door on floor 100 opens a gold reward and a skin for the lift panel.
+
+The signal: as you go higher the tower glitches more, with static, flickering and intercom fragments that slowly tell a story. Collected fragments are kept in the Journal's Signal tab.
+
+Shop (from the Job Board, or the Journal): pet treats, an express lift motor, an emergency lantern for blackouts, a zoom lens for photo mode, lift music packs (bossa, synth), and brass and neon panel skins.
+
+Photo mode: press **P**, aim at a floor secret, night find, pet or the metro train, and click or press E. Your best shot of each subject is kept in the Journal's Album, where you can save the last photo as an image. Scroll or +/− zooms.
+
+Tower Sprint: in the Journal's Sprint tab, race to floors 20, 40, 60, 80 and 100 in order. The clock starts when you press the first floor; a wrong floor costs 2 seconds; the lift sometimes jams, so mash the ALARM button to free it. Your best time and splits are saved.
+
+Blackouts and stalls: now and then the lift jams between floors (mash ALARM), or the whole tower loses power. During a blackout the lift refuses to move; find the blinking red breaker box in the lobby and flip it for a tip.
+
+Night finds: six extra secrets (a shooting star, an owl, fireflies, a moon lantern, a constellation, a sleeping cat) appear only after dark by your real clock.
+
+Pets: give the metro chihuahua a treat (and leave one in the bowl for a rat) and they follow you through the tower. A rat can squeeze into the twelve tiny holes hidden in lobby walls and come back with a stash.
+
+Metro stations: when the train rests at the platform, board it to ride to three other stops (Night Market, Rail Depot, Harbour Quay), each with its own props and secrets. The red button post at each platform calls the train home.
+
+Holiday decor appears in the lift from December 1 to January 2.
 
 Light switches: every room has a switch plate (by the lift door, or beside the exit door in apartments, the metro, the bar and the warehouse) that turns the lights off and on. A few places have flaky wiring and glitch off and on by themselves.
 
 Metro: a train thunders in at speed, brakes, rests at the platform for a few seconds and pulls out again; every other run is an express that blasts straight through.
 
-Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / M mute. Touch: left stick to move (push fully to run), drag to look, USE button.
+Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / K journal / P photo mode / M mute. Touch: left stick to move (push fully to run), drag to look, USE button.
 
 ## Credits (3D models)
 - Elevator — EFX (CC-BY-4.0)
