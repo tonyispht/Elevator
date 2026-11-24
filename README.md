@@ -1,6 +1,6 @@
 # Elevator
 
-A first-person browser game set inside a low-poly elevator. Ride between floors P and 1–47 (arcade, pool, bowling, ballroom, sky deck, tea house, orbital station, chess club, Roman baths, mission control, chalet, science lab, toy store, jungle temple, bank vault, Moroccan riad, cloud lounge, and four huge residences), flipping through the paged button panel, explore the lobbies, the parking garage, an abandoned metro station (with a Dr. Jessie Benson mural), and find the keys to the apartments.
+A first-person browser game set inside a low-poly elevator. Ride between floors P and 1–100 (arcade, pool, bowling, ballroom, sky deck, tea house, orbital station, chess club, Roman baths, mission control, chalet, science lab, jungle temple, bank vault, Moroccan riad, cloud lounge, planetarium, pirate cove, haunted manor, submarine, circus, crystal cavern, airship, throne room, time lab, starship bridge, a rooftop summit on floor 100, and four huge residences), flipping through the paged button panel, explore the lobbies, the parking garage, an abandoned metro station (with a Dr. Jessie Benson mural), and find the keys to the apartments.
 
 Play: https://tonyispht.github.io/Elevator/
 
