@@ -27,5 +27,6 @@ Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left st
 - Barranco Bar | PS1 Environment(Optimized/Mobile) by McPato (https://sketchfab.com/McPato), CC-BY-4.0: https://sketchfab.com/3d-models/barranco-bar-ps1-environmentoptimizedmobile-3bbbad82e80e4af7985269292b41f52b
 - Abandoned Warehouse - Interior Scene by Aurélien Martel (https://sketchfab.com/aurelien_martel), CC-BY-4.0: https://sketchfab.com/3d-models/abandoned-warehouse-interior-scene-1d5285f2e0fd4211a27c8042496d5959
 - Generic passenger car pack by Comrade1280 (https://sketchfab.com/comrade1280), CC-BY-4.0: https://sketchfab.com/3d-models/generic-passenger-car-pack-20f9af9b8a404d5cb022ac6fe87f21f5
+- Modern Apartment by Visthétique (https://sketchfab.com/visthetique), CC-BY-4.0: https://sketchfab.com/3d-models/modern-apartment-1fbb649cd6624f2bb7b7d6e30c6533a5
 
 In the game, the credits live behind the **Credits** button on the title screen.
