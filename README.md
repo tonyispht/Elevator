@@ -28,6 +28,8 @@ Night finds: six extra secrets (a shooting star, an owl, fireflies, a moon lante
 
 Pets: give Hopper, the metro chihuahua, a treat (and leave one in the bowl for a rat) and they follow you through the tower. A rat can squeeze into the twelve tiny holes hidden in lobby walls and come back with a stash.
 
+Dog park and adoption: outside the parking garage there is a **Dog Park** gate in the city. Behind it is a fenced yard where seven dogs (two puppies, a Jack Russell, a Bull Terrier, a Basset Hound, an Alaskan Malamute and a Bullmastiff) trot around, chase each other, sit, scratch and lie down. Pick up the tennis ball by the gate basket and throw it: the nearest dogs race after it and bring it back. Walk up to any dog to meet it and **adopt** it (free). Up to three adopted dogs follow you through the tower at once; manage who comes along in the Journal's **Pack** tab or at the adoption desk. Adopted dogs appear as photo subjects too.
+
 Metro stations: when the train rests at the platform, board it to ride to three other stops (Night Market, Rail Depot, Harbour Quay), each with its own props and secrets. The red button post at each platform calls the train home.
 
 Holiday decor appears in the lift from December 1 to January 2.
@@ -62,3 +64,5 @@ Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / K jo
 - Modern Apartment by Visthétique (https://sketchfab.com/visthetique), CC-BY-4.0: https://sketchfab.com/3d-models/modern-apartment-1fbb649cd6624f2bb7b7d6e30c6533a5
 
 In the game, the credits live behind the **Credits** button on the title screen.
+- Bullpuppy and Dog Puppy by kenchoo (https://sketchfab.com/kenchoo), CC-BY-4.0: https://sketchfab.com/3d-models/bullpuppy-50d66326f5d9458cbda747071dd61233 and https://sketchfab.com/3d-models/dog-puppy-72331763040e4314b154f84348fe0957 (simplified for the game)
+- low poly dog pack by compost the second (https://sketchfab.com/compostthesecond), **CC-BY-SA-4.0**: https://sketchfab.com/3d-models/low-poly-dog-pack-b27eaa571da14c3b93bf664fe7d950c8 . The dog models used here are modified (merged, textures compressed, animated in code) and are shared under the same CC-BY-SA-4.0 license (the `dogs.bin` asset).
