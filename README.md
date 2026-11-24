@@ -1,6 +1,6 @@
 # Elevator
 
-A first-person browser game set inside a low-poly elevator. Ride between floors P and 1–9, explore the lobbies, the parking garage, an abandoned metro station (with a Dr. Jessie Benson mural), and find the key to apartment 3B.
+A first-person browser game set inside a low-poly elevator. Ride between floors P and 1–27 (arcade, pool, bowling, ballroom, sky deck, and four huge residences), explore the lobbies, the parking garage, an abandoned metro station (with a Dr. Jessie Benson mural), and find the keys to the apartments.
 
 Play: https://tonyispht.github.io/Elevator/
 
