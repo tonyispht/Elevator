@@ -4,7 +4,12 @@ A first-person browser game set inside a low-poly elevator. Ride between floors 
 
 Play: https://tonyispht.github.io/Elevator/
 
-Controls: WASD / drag to look / click or E to use / Shift to run. Touch: left stick to move (push fully to run), drag to look, USE button.
+Optional jobs (open the Job Board with the 💼 button or J; take one or quit any time, pay goes into a saved $ wallet):
+- **Courier** – carry packages to a floor and walk onto the glowing ring; faster deliveries earn tips and streak bonuses.
+- **Elevator operator** – guests wait on floors and call the lift; pick them up, drop them at their floor, build combos.
+- **Tour guide** – lead a 3-stop tour and hold at each spot's star ring for a few seconds; faster legs earn more stars.
+
+Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / M mute. Touch: left stick to move (push fully to run), drag to look, USE button.
 
 ## Credits (3D models)
 - Elevator — EFX (CC-BY-4.0)
