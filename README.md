@@ -9,6 +9,12 @@ Optional jobs (open the Job Board with the 💼 button or J; take one or quit an
 - **Elevator operator** – guests wait on floors and call the lift; pick them up, drop them at their floor, build combos.
 - **Tour guide** – lead a 3-stop tour and hold at each spot's star ring for a few seconds; faster legs earn more stars.
 
+Floor secrets: every floor (P and 1–100) hides one interactive thing that belongs only to that floor – a cuckoo clock, a Tesla coil, a vault, a time machine, a telescope, a summit flag on floor 100… Look for the little gold sparkle, then click or press E. Your finds are saved ("✨ New find").
+
+Light switches: every room has a switch plate (by the lift door, or beside the exit door in apartments, the metro, the bar and the warehouse) that turns the lights off and on. A few places have flaky wiring and glitch off and on by themselves.
+
+Metro: a train thunders in at speed, brakes, rests at the platform for a few seconds and pulls out again; every other run is an express that blasts straight through.
+
 Controls: WASD / drag to look / click or E to use / Shift to run / J jobs / M mute. Touch: left stick to move (push fully to run), drag to look, USE button.
 
 ## Credits (3D models)
